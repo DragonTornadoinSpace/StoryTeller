@@ -1,4 +1,4 @@
-# 2k6phamChuBinh
+# StoryTeller
 
 ## Set-up phần mềm
 Nhớ thay tên ứng dụng tại dòng 298, trong screens/LogReg.js
